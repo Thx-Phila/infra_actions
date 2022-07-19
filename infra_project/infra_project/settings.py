@@ -26,8 +26,6 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
-
-
 INSTALLED_APPS = [
     'infra_app.apps.InfraAppConfig',
     'django.contrib.admin',
